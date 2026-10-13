@@ -25,9 +25,15 @@ Tech Stack
 Python, pandas, scikit-learn, matplotlib, seaborn, Jupyter Notebook
 
 **Files**
-Car_Price_Prediction.ipynb — full notebook with code, explanations, and results
-car_data.csv — dataset (note source here if excluded from the repo due to size/license)
-Screenshots/outputs — to be added after running the notebook
+`Car_Price_Prediction.ipynb` — full notebook with code, explanations, and results
+Screenshots
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/96063e54-ba73-4523-bce1-677cf84eab26" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/720af9d0-8e29-4c67-afe5-10fa6da49cb8" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eab769b6-a2e6-4c5c-8b93-c96001b0d2ec" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c131691d-ee4d-4e1c-8fe8-420baaa944bf" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0c48a49b-94e3-4390-bcbd-d127bd58f039" />
+
+
 ## Result
 
 | Model | MAE | RMSE | R² |
