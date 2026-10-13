@@ -24,7 +24,11 @@ Python, scikit-learn, pandas, matplotlib, seaborn, Jupyter Notebook
 
 ## Files
 - `Iris_Classification.ipynb` — full notebook with code, explanations, and results
-- Screenshots/outputs — to be added after running the notebook
+- Screenshots :
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1476862f-a5de-4fc3-9423-fc63c4ded55c" />
+-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/30ad10bc-8452-44d9-a0ad-b05980bf1752" />
+
+
 
 ## Result
 
