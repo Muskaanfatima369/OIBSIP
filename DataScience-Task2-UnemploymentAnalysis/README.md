@@ -24,7 +24,14 @@ Python, pandas, matplotlib, seaborn, Jupyter Notebook
 
 ## Files
 - `Unemployment_Analysis.ipynb` — full notebook with code, explanations, and results
-- Screenshots — line chart, bar chart, and heatmap outputs
+- Screenshots —
+-  line chart
+-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b9dfb171-afdd-41cf-adfb-233b9a0b4273" />
+-  bar chart
+-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/45eb79f5-8d79-4081-bba5-d9dfb78b95c1" />
+- heatmap
+- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8fd50281-5618-4a49-ad59-d41a094db79a" />
+
 
 ## Result
 
